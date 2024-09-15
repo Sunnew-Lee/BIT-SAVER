@@ -1,22 +1,43 @@
-# Summary:
-* BIT_SAVER
-* Version - 1.0.0
-* Team - KIN GAME
-* Developers & authors 
-   *  Jaewoo Choi, Sunwoo Lee, Hyun Kang, Hyosang Jung
+# BIT SAVER
+
+- **Team Name:** KINGAME  
+- **Game Name:** BIT SAVER  
+- **Elevator Pitch:**  
+  BIT SAVER is a rhythm action game where notes are generated and move toward the player in sync with the music's tempo. Players must press the corresponding keyboard button when notes reach the hitbox in front of the main character.
+
+## Features
+- 4 Levels
+- Rhythm-based gameplay
+- Engaging music tracks
+- Arduino support for playing
+- Hit impact visuals
+
+## Developer Contact Information
+- **Producer:** Sunwoo Lee - [sunwoo9078@gmail.com](mailto:sunwoo9078@gmail.com)  
+- **Tech Lead:** Hyosang Jung - [hyosang0712@gmail.com](mailto:hyosang0712@gmail.com)  
+- **Physics Lead:** Jaewoo Choi - [wod6983@gmail.com](mailto:wod6983@gmail.com)
+
+## Key Features
+- 4 unique music tracks
+- Easy and Hard difficulty modes
+- Play using Keyboard or Arduino device
+- MIDI file-based gameplay
+- Offset adjustment setting
+- Tutorial available
+- 6 note movement patterns and 3 note types
+
+## Links
+- [Press Kit Document](https://docs.google.com/document/d/1V79Q7R3hEafI7YR9RckEBPYh2oQSj1Ov/edit?usp=sharing&ouid=106747112146344045584&rtpof=true&sd=true)
+- [Demo Video](https://youtu.be/B6Ebtn6DSO4)
+
+## Platforms and Release Date
+- **Platform:** Windows  
+- **Release Date:** June 9th
 
 
-* Website / GitHub repo URL https://github.com/Rudy-Castan-DigiPen-Teaching/game-project-kingame
-   * May have 404 warnings because it is a private repository.
+- **License**
+   - Digipen has all rights for this project license.
 
-
-* Small description of the game
-   * Our game is a rhythm game. There are interesting effects on the game. Players should press the key with the music’s rhythm.
-* License
-   * Digipen has all rights for this project license.
-
-
-________________
 
 # Before Starting:
 * Software/hardware requirements basic computer setting.
@@ -38,9 +59,7 @@ ________________
    * Libraries not listed here are also already included in the project.
                 
 
-________________
-
-# Installation Instructions:
+## Installation Instructions:
 * How to open the source code from the IDE (Which file, etc)
    * Open BIT_SAVER.sln 
 * How to set environment variables (if necessary)
@@ -50,10 +69,7 @@ ________________
 * Any additional information or changes
    * None
 
-
-________________
-
-# Run/Build Code:
+## Run/Build Code:
 * What to run/build properties are needed
    * It needs to include directories, post-build event properties.
       * All are already included in vcxproj
@@ -68,9 +84,7 @@ ________________
 * What button or command line arguments needed to compile
    * After opening BIT_SAVER.sln in visual studio, press ctrl+F5 to run the game.
 
-________________
-
-# Play:
+## Play:
 * Any expected windows/visuals/audio
    * One window starting with a Digipen splash screen.
    * After our game logo splash screen, Mainmenu with play instructions pops up.
@@ -105,10 +119,7 @@ ________________
    * The playtime of every level will be roughly 3 and a half minutes.
    * If the small character runs although the end(The song is finished) the stage is cleared.
 
-
-________________
-
-# FAQ/Common Mistakes:
+## FAQ/Common Mistakes:
 * Common installation mistakes that people might make
    * Just unzip it. Open BIT_SAVER.sln. Set the build mode to Debug or Release. Press Ctrl + F5 
 * Any common errors or crashes that may occur
@@ -117,12 +128,3 @@ ________________
    * The particles that needed to be disappeared popped up randomly.
    * On some computers, the note generating timing is not correct.
    * On some computers, monitor blinking occurs on the offset adjustment scene.
-
-________________
-
-# Feedback:
-* Contact information for help or feedback
-   * Contact our team producer Sunwoo Lee
-      * Discord - sunwoo.lee(이선우)#6066
-      * Kakaotalk ID- happy9078
-      * Email - sunwoo9078@gmail.com
