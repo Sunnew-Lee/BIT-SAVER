@@ -5,13 +5,6 @@
 - **Elevator Pitch:**  
   BIT SAVER is a rhythm action game where notes are generated and move toward the player in sync with the music's tempo. Players must press the corresponding keyboard button when notes reach the hitbox in front of the main character.
 
-## Features
-- 4 Levels
-- Rhythm-based gameplay
-- Engaging music tracks
-- Arduino support for playing
-- Hit impact visuals
-
 ## Developer Contact Information
 - **Producer:** Sunwoo Lee - [sunwoo9078@gmail.com](mailto:sunwoo9078@gmail.com)  
 - **Tech Lead:** Hyosang Jung - [hyosang0712@gmail.com](mailto:hyosang0712@gmail.com)  
